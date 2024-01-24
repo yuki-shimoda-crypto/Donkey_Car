@@ -8,12 +8,12 @@
 # The update operation will not touch this file.
 # """
 
-# import os
-# 
-# #PATHS
-# CAR_PATH = PACKAGE_PATH = os.path.dirname(os.path.realpath(__file__))
-# DATA_PATH = os.path.join(CAR_PATH, 'data')
-# MODELS_PATH = os.path.join(CAR_PATH, 'models')
+import os
+ 
+#PATHS
+CAR_PATH = PACKAGE_PATH = os.path.dirname(os.path.realpath(__file__))
+DATA_PATH = os.path.join(CAR_PATH, 'data_250530_tall_camera_first')
+MODELS_PATH = os.path.join(CAR_PATH, 'models')
 # 
 # #VEHICLE
 # DRIVE_LOOP_HZ = 20      # the vehicle loop will pause if faster than this speed.
