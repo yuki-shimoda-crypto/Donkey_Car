@@ -2,4 +2,4 @@
 ["image_array", "float", "float", "str"]
 {}
 {"created_at": 1706131806.8751843, "sessions": {"all_full_ids": ["24-01-25_0"], "last_id": 0, "last_full_id": "24-01-25_0"}}
-{"paths": ["catalog_0.catalog", "catalog_1.catalog", "catalog_2.catalog", "catalog_3.catalog", "catalog_4.catalog", "catalog_5.catalog", "catalog_6.catalog"], "current_index": 6596, "max_len": 1000, "deleted_indexes": []}
+{"paths": ["catalog_0.catalog", "catalog_1.catalog", "catalog_2.catalog", "catalog_3.catalog", "catalog_4.catalog", "catalog_5.catalog", "catalog_6.catalog", "catalog_7.catalog"], "current_index": 7275, "max_len": 1000, "deleted_indexes": []}
