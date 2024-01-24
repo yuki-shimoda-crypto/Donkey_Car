@@ -2,4 +2,4 @@
 ["image_array", "float", "float", "str"]
 {}
 {"created_at": 1706134937.6490057}
-{"paths": ["catalog_0.catalog", "catalog_1.catalog", "catalog_2.catalog"], "current_index": 2044, "max_len": 1000, "deleted_indexes": []}
+{"paths": ["catalog_0.catalog", "catalog_1.catalog", "catalog_2.catalog"], "current_index": 2594, "max_len": 1000, "deleted_indexes": []}
